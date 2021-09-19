@@ -2,6 +2,7 @@
   <head>
     <meta chaset>
     <title>Desafio1</title>
+    <link href="https://beatrizmarie.github.io/Challenge1/style.css" rel="stylesheet"/>
   </head>
   <body>
     <h1>💉 Nurse's Help</h1>
