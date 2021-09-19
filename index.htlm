@@ -6,6 +6,7 @@
     <script src="https://beatrizmarie.github.io/Challenge1/script.js" </script>
   </head>
   <body>
+  <div>
     <h1>💉 Nurse's Help</h1>
  
     <h2>No Nurse's Help de hoje iremos aprender sobre a diluição da Noradrenalina, um medicamento comumente usado nas UTIs. Para facilictar a explicação será dividida em alguns tópicos com informações sucintas e rápidas, de forma que vocês aprendam o essencial na hora de instalar essa droga vasoativa tão utilizada. Segue abaixo:</h2>
@@ -22,7 +23,7 @@
     <footer>
       <p>Espero ter ajudado vocês, qualquer dúvida mandem uma DM no instagram do site. Nos vemos no próximo Nurse's Help!<p/>
     <footer>
-      
+      <div>
       
       </boody>
       </html>
